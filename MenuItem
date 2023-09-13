@@ -1,0 +1,9 @@
+public class MenuItem
+{
+  int id;
+  string VendorName;
+  string MenuName;
+  string menuCategory
+  double amount;
+  boolean isVeg;
+ }
