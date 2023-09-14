@@ -1,4 +1,4 @@
 package com.bootcoding.service;
 
-public class Vendorservice {
+public class VendorService {
 }
